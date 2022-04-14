@@ -1,8 +1,3 @@
-# DIO - Projeto Git/Github
+# DIO - Projetos
 
-Desafio de projeto do bootcamp da Digital Innovation One.
-
-Objetivos:
-  - Criação de um repositório
-  - Atualização do repositório 
-  - Sincronização do repositório (remoto/local)
+Projetos desenvolvidos durante os bootcamps fornecidos pela Digital Innovation One.
